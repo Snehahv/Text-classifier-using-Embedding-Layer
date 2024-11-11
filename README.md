@@ -109,7 +109,7 @@ print(f"There are {validation_dataset.cardinality()} sentence-label pairs for va
      
 ```
 
-![image](https://github.com/user-attachments/assets/119abcbe-6b40-45da-9b42-b6f3e6bb3d41)
+![image](https://github.com/user-attachments/assets/99d752a5-4e86-411b-8010-48bed2879fef)
 
 
 
@@ -166,7 +166,7 @@ print(f"Vocabulary contains {vocab_size} words\n")
      
 ```
 
-![image](https://github.com/user-attachments/assets/b90d4e65-761c-44f0-a3b3-a5f22a06df48)
+![image](https://github.com/user-attachments/assets/099c6fc6-2e7f-4d10-9183-3620a9be4ad9)
 
 
 
@@ -198,7 +198,7 @@ print('Name: SNEHA HV      Register Number: 212222040157')
 print(f'Unique labels: {label_encoder.get_vocabulary()}')
 ```
 
-![image](https://github.com/user-attachments/assets/7bd13c54-7de6-4df7-8b94-e87a9ff01811)
+![image](https://github.com/user-attachments/assets/3152e368-ae6f-4af7-8dd0-80504a870eb9)
 
 
 
@@ -226,7 +226,7 @@ print('Name: ANBUSELVAM A    Register Number: 212222240009      ')
 print(f"Shape of the train batch: {train_batch[0].shape}")
 print(f"Shape of the validation batch: {validation_batch[0].shape}")
 ```
-![image](https://github.com/user-attachments/assets/c814717e-3448-453d-801a-8cd07cb186dd)
+![image](https://github.com/user-attachments/assets/0a4d0b19-07aa-4842-8b62-7d9605b10ca8)
 
 
 
